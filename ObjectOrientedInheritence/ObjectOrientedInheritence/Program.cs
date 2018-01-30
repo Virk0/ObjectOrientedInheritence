@@ -12,6 +12,7 @@ namespace ObjectOrientedInheritence
         {
             //Mängija loomine
             var hp = 100;
+            int range = Int32.Parse(Console.ReadLine());
 
             //loome vaenlase
             var enemyWolf = new Wolf();
