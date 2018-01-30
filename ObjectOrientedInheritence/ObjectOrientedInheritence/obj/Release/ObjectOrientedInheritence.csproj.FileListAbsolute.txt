@@ -1,0 +1,6 @@
+C:\Users\opilane\Documents\GitHub\ObjectOrientedInheritence\ObjectOrientedInheritence\ObjectOrientedInheritence\bin\Release\ObjectOrientedInheritence.exe.config
+C:\Users\opilane\Documents\GitHub\ObjectOrientedInheritence\ObjectOrientedInheritence\ObjectOrientedInheritence\bin\Release\ObjectOrientedInheritence.exe
+C:\Users\opilane\Documents\GitHub\ObjectOrientedInheritence\ObjectOrientedInheritence\ObjectOrientedInheritence\bin\Release\ObjectOrientedInheritence.pdb
+C:\Users\opilane\Documents\GitHub\ObjectOrientedInheritence\ObjectOrientedInheritence\ObjectOrientedInheritence\obj\Release\ObjectOrientedInheritence.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Documents\GitHub\ObjectOrientedInheritence\ObjectOrientedInheritence\ObjectOrientedInheritence\obj\Release\ObjectOrientedInheritence.exe
+C:\Users\opilane\Documents\GitHub\ObjectOrientedInheritence\ObjectOrientedInheritence\ObjectOrientedInheritence\obj\Release\ObjectOrientedInheritence.pdb
